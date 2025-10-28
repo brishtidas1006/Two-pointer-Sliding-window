@@ -1,6 +1,8 @@
 // Time complexity O(n+n)
 // Space complexity O(1)
 
+// IF question is asking SUBARRAY, we must follow shrink, expand approch 
+
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
